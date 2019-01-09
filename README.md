@@ -15,10 +15,11 @@ Requirements
  * JDK 8
 	
 Using
+
   You can see what urls are available using curl:
 
    	$ curl localhost:8080
 
-You can view existing people objects using a similar request:
+  You can view existing people objects using a similar request:
 
   	 $ curl localhost:8080/persons
